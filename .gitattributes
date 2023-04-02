@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 commit 1
+commit 2
+Виправив помилки в шляху 
